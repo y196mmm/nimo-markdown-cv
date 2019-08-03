@@ -1,14 +1,12 @@
 ---
 layout: cv
-title: Wode "Nimo" Ni
+title: Jiaming Yang
 email: 
-    url: mailto:woden@cs.cmu.edu
-    text: woden@cs.cmu.edu
-homepage:
-    url: http://cs.cmu.edu/~woden
-    text: cs.cmu.edu/~woden
+    
+    text: jyang93@syr.edu
+
 ---
-# Wode __Ni__
+# Jiaming __Yang__
 
 <!--
 include contact information from the front matter
@@ -21,73 +19,51 @@ Supported arguments:
 
 ## Education
 
-### __Carnegie Mellon University__ `2018.9 -`
+### __South China University of Technology__ `2019.9 -`
 ```
-Pittsburgh, PA
+Guangzhou, China
 ```
-- Ph.D. in Software Engineering
-- Co-advised by [Ken Koedinger](http://pact.cs.cmu.edu/koedinger.html) and [Josh Sunshine](http://www.cs.cmu.edu/~jssunshi/)
+- M.E. in Fermentation Engineering
+- Advised by Shuangyan Han
 
-### __Columbia University__ `2016.9 - 2018.5`
+### __State University of New York ESF__ `2018.9 - 2019.5`
 ```
-New York, NY
+Syracuse, NY
 ```
-- B.S. in Computer Science, _Magna Cum Laude_
-- Vision, Graphics track
+- B.S. in Bioprocess Engineering
+- Magna Cum Laude
 
-### __Dickinson College__ `2013.9 - 2016.5`
+### __Beijing University of Chemical Technology__ `2015.9 - 2018.6`
 ```
-Carlisle, PA
+Beijing, China
 ```
-- B.S. in Computer Science, _Summa Cum Laude_
-- Computer Science Departmental Honors
-
-## Publications
-
-### [__Substance and Style: domain-specific languages for mathematical diagrams__](https://2017.splashcon.org/event/dsldi-2017-substance-and-style-domain-specific-languages-for-mathematical-diagrams)
-__Wode Ni\*__, Katherine Ye\*, Joshua Sunshine, Jonathan Aldrich, and Keenan Crane.<br>  _Domain-Specific Language Design and Implementation (DSLDI 2017),  co-located with SPLASH._ <br>
-[[PDF](assets/dsldi.pdf)]
-[[slides](assets/dsldi-presentation.pdf)]
-[[www](http://penrose.ink)]
-[[repo](https://github.com/penrose/penrose)]
-
-### [__Whiteboard Scanning Using Super-Resolution__](http://scholar.dickinson.edu/student_honors/221/)
-__Wode Ni__.<br> _Dickinson College Honors Theses. Paper 221._<br>
-[[PDF](assets/superres.pdf)]
+- B.S. in Biological Engineering
+- Miyoshi field grade students
 
 ## Experience
 
-### __Carnegie Mellon University, Research Experiences for Undergraduate__  `2017.5 - 2017.8`
+### __South China University of Technology__ `2019.8 `
+_Post-Graduate_<br>
+Guided by prof. Shuangyan Han, the research direction is cell-free synthesis.
+
+### __State University of New York ESF, __ `2018.10 - 2019.5`
 _Research Assistant_<br>
-__Penrose__ is a system that automatically visualizes mathematics using two domain-specific languages: __Substance__ and __Style__. Co-advised by [Jonathan Aldrich](https://www.cs.cmu.edu/~./aldrich/), [Keenan Crane](https://www.cs.cmu.edu/~kmcrane/), [Joshua Sunshine](http://www.cs.cmu.edu/~jssunshi/), and [Katherine Ye](https://www.cs.cmu.edu/~kqy/), I designed and implemented the Style language, and extended the Substance language to support functions and logically quantified statements.
+Worked with prof. Bandaru Ramarao to improve the pretreatment efficiency of lignocellulose. 
 
-### __Columbia University, Computer Graphics and User Interfaces Lab__ `2017.1 - 2017.5`
+### __Institute of Biophysics，Chinese Academy of Sciences, __ `2018.7 - 2019.7`
+Summer school in institute of biophysics, Chinese academy of sciences
+
+### __Beijing University of Chemical Technology, Research Experiences for Undergraduate__  `2017.3 - 2017.9`
 _Research Assistant_<br>
-Worked with prof. Steven Feiner, on __Cyber Affordance Visualization in Augumented Reality__ project. Developed a Microsoft Hololens application that visualizes the Columbia campus in AR environment.
-
-### __AsiaInfo__ `2015.6 - 2015.8`
-_Software Engineering Intern_<br>
-Worked on server-side web applications and server deployment tools.
-
-
-## Teaching
-
-Teaching Assistant, __Programming Languages and Translators (COMS 4115)__ `Columbia, 2017 - 2018` <br>
-Teaching Assistant, __Introduction to Java II (COMP 132)__ `Dickinson, 2016` <br>
-Peer Tutor, __Data Structures and Problem Solving (COMP 232)__ `Dickinson, 2016` <br>
-Computer Lab Consultant `Dickinson, 2014 - 2016` <br>
-
+Carry out biological activity test of __antimicrobial peptides__, including bacteriostasis, determination of peptide minimum bacteriostasis concentration, hemolytic toxicity test, in vitro cytotoxicity test and so on. 
 
 ## Honors & Awards
-
-Phi Beta Kappa `Dickinson, 2018` <br>
-Excellence in Computer Science Award `Columbia, 2018` <br>
-Tau Beta Pi, Engineering Honor Society `Columbia, 2017` <br>
-Computer Science Departmental Honors `Dickinson, 2016` <br>
-Pi Mu Epsilon, Mathematics Honor Society `Dickinson, 2016` <br>
-Upsilon Pi Epsilon, Computer Science Honor Society  `Dickinson, 2016` <br>
-Alpha Lambda Delta, First year Honor Society `Dickinson, 2013`<br>
-John Montgomery Scholarship `Dickinson, 2013` <br>
+First Academic Acholarship for Graduate Students `SCUT, 2018` <br>
+The People’s Scholarship in China `BUCT, 2018` <br>
+The People’s Scholarship in China `BUCT, 2017` <br>
+The People’s Scholarship in China `BUCT, 2016` <br>
+Outstanding Volunteer`BUCT, 2016` <br>
+Learning Progress Award `BUCT, 2016` <br>
 
 <!-- ### Footer
 
