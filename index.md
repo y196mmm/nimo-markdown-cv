@@ -37,7 +37,7 @@ Syracuse, NY
 ```
 Beijing, China
 ```
-- B.S. in Biological Engineering
+- B.E. in Biological Engineering
 - Miyoshi field grade students
 
 ## Experience
