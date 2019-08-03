@@ -15,7 +15,7 @@ Supported arguments:
     - phone
     - email
 -->
-{% include cv-contact.html %}
+
 
 ## Education
 
