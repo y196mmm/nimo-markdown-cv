@@ -46,11 +46,11 @@ Beijing, China
 _Post-Graduate_<br>
 Guided by prof. Shuangyan Han, the research direction is cell-free synthesis.
 
-### __State University of New York ESF, __ `2018.10 - 2019.5`
+### __State University of New York ESF__ `2018.10 - 2019.5`
 _Research Assistant_<br>
 Worked with prof. Bandaru Ramarao to improve the pretreatment efficiency of lignocellulose. 
 
-### __Institute of Biophysics，Chinese Academy of Sciences, __ `2018.7 - 2019.7`
+### __Institute of Biophysics，Chinese Academy of Sciences__ `2018.7 - 2019.7`
 Summer school in institute of biophysics, Chinese academy of sciences
 
 ### __Beijing University of Chemical Technology, Research Experiences for Undergraduate__  `2017.3 - 2017.9`
